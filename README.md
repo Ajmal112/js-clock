@@ -4,7 +4,7 @@ The JS Clock is a web application that displays a live analog clock showing the 
 
 ## Live Demo
 
-You can try out the JS Clock live by visiting the [demo page](https://your-demo-page-url.com).
+You can try out the JS Clock live by visiting the [demo page](https://ajmal112.github.io/js-clock/).
 
 ## Motivation
 
@@ -28,7 +28,7 @@ The JS Clock project is built using the following technologies:
 
 To use the JS Clock locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/js-clock.git`
+1. Clone the repository: `git clone https://ajmal112.github.io/js-clock.git`
 2. Open `index.html` in your web browser.
 3. The clock will automatically start displaying the current local time.
 
